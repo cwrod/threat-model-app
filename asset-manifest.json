@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/threat-model-app/static/css/main.2f2ca4a8.css",
-    "main.js": "/threat-model-app/static/js/main.fd5bf105.js",
+    "main.js": "/threat-model-app/static/js/main.aedfa2f5.js",
     "static/js/453.e2ec78e3.chunk.js": "/threat-model-app/static/js/453.e2ec78e3.chunk.js",
     "index.html": "/threat-model-app/index.html",
     "main.2f2ca4a8.css.map": "/threat-model-app/static/css/main.2f2ca4a8.css.map",
-    "main.fd5bf105.js.map": "/threat-model-app/static/js/main.fd5bf105.js.map",
+    "main.aedfa2f5.js.map": "/threat-model-app/static/js/main.aedfa2f5.js.map",
     "453.e2ec78e3.chunk.js.map": "/threat-model-app/static/js/453.e2ec78e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f2ca4a8.css",
-    "static/js/main.fd5bf105.js"
+    "static/js/main.aedfa2f5.js"
   ]
 }
